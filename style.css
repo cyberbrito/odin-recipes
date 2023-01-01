@@ -1,0 +1,13 @@
+body { background-color: #e0e71ceb;}
+body h1 { 
+    color: rgb(99, 92, 83);
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body ul{
+    color: aliceblue;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
